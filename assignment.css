@@ -1,0 +1,118 @@
+*{padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+    background-color: rgb(233, 223, 209);
+}
+
+#image1{
+    width: 230px;
+    height: 40px;
+    margin-left: 4rem;
+    margin-top: 3rem;
+
+}
+.Hero{
+    font-size: medium;
+    display: flex;
+    background-color: rgb(248, 246, 242);
+    margin: 30px;
+}
+.image2{
+    width: 100%;
+    height: 120%;
+    float: right;
+    margin-top: 30px;
+}
+.heading{
+    font-size: 80px;
+    margin-top: 100px;
+    margin-right: 50px;
+}
+.text{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-right: 80px;
+    float: left;
+}
+.button6{
+    padding: 5px;
+    background-color: orangered;
+    font-size: large;
+    color: aliceblue ;
+    border-color: orangered;
+    border-radius: 5%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 40px;
+}
+.button7{
+    padding: 5px;
+    background-color: white;
+    font-size: large;
+    color: black ;
+    border-color: white;
+    border-radius: 5%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 40px;
+}
+.img1 {
+    display: flex;  
+    margin-top: 2.7rem;
+    float: right;
+    margin-left: 10rem;
+
+}
+.button1{
+   margin-right: 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: black;
+    font-family: Arial;
+
+}
+.button2{
+    margin-right: 5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: black;
+    font-family: Arial;
+}
+.button3{
+    margin-right: 5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: black;
+    font-family: Arial;
+}
+.button4{
+    margin-right: 5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: black;
+    font-family: Arial;
+}
+.button5{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 1.2rem;
+    margin-right: 5rem;
+    font-weight: bold;
+    background-color: orangered;
+    color: aliceblue ;
+    border-color: orangered; 
+    border-radius: 10px;
+}
+.ABC{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
